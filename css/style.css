@@ -1,0 +1,35 @@
+/*
+App General Stylesheet
+@author C. Moller <xavier.tnc@gmail.com> - 31 May 2014
+Licensed under the MIT license. Please see LICENSE for more information.
+*/
+
+body { background-color: #222; }
+
+header { margin-bottom: 7px; display: block; }
+header, footer { padding:2%; background-color: #222; color:white; text-align: center; }
+
+
+h1 { font-size: 2.5em; }
+h2 { font-size: 2em; }
+h3 { font-size: 1.67em; }
+h4 { font-size: 1em; }
+
+p { margin: 10px 0; }
+
+#page { max-width:1000px; margin:15px auto; background-color: white; padding:20px; }
+
+#logo { width:100%; }
+
+#menu { list-style: none; padding:0; margin:0; }
+#menu li { padding: 10px; background-color: whitesmoke; margin: 10px; }
+#menu a { font-size: 1.67em; }
+
+.user-info { margin: 2px auto 0 auto; }
+.customer-info { margin-bottom: 7px; text-align: center;}
+
+@media (max-width: 480px){
+    body { font-size: 12px; }
+    #logo { height: 65px; }
+    h1,h2,h3,h4,hr { margin-top: 0.3em; margin-bottom: 0.3em; }
+}

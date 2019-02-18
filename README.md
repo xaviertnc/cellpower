@@ -1,2 +1,2 @@
-# cellpower
+# Cellpower
 Cellpower interface app

@@ -1,0 +1,6 @@
+http://cellpower.tshwane.gov.za/cgi-bin/cellpower.pl
+USER: 0718730764
+PIN: 78963
+
+Meter (Riette Home): 0704 0387 461
+Meter (Mr Prepaid Office): 0706 4283 687
